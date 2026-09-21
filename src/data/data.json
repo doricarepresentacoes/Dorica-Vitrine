@@ -1,32 +1,32 @@
 [
   {
-    "nome": "Lider",
+    "nome": "Líder",
     "logo": "https://res.cloudinary.com/dfkebb4ds/image/upload/v1773086218/logo-lider_sjcaxz.png",
     "cor": "#D4572A",
     "produtos": [
       {
         "imagem": "https://images.tcdn.com.br/img/img_prod/727032/fofomvel_toy_story_woody_1_20260525132605_b359bb299414.png",
-        "nome": "Fofomóvellll - Toy Story - Woody",
+        "nome": "Fofomóvel - Toy Story - Woody",
         "descricao": "29 x 20 x 24 cm."
       },
       {
         "imagem": "https://images.tcdn.com.br/img/img_prod/727032/chute_a_gol_patrulha_canina_719_2_20201015105230.jpg",
-        "nome": "Chute A Gol - Patrulha Canina",
-        "descricao": "Chute a Gol ."
+        "nome": "Chute a Gol - Patrulha Canina",
+        "descricao": "Chute a Gol."
       },
       {
         "imagem": "https://images.tcdn.com.br/img/img_prod/727032/dedoches_turma_da_mnica_1_20260316143255_cfb22d41d4d4.jpg",
         "nome": "Dedoches - Turma da Mônica",
-        "descricao": "São 5 miniaturas totalmente em vinil e com a pintura igual às dos personagens."
+        "descricao": "São 5 miniaturas totalmente em vinil, com a pintura igual à dos personagens."
       },
       {
         "imagem": "https://images.tcdn.com.br/img/img_prod/727032/casinha_castelo_a_casa_magica_da_gabby_1201_3_6e47c2336035ccf0b7156b906cc2df5f.jpg",
-        "nome": "Casinha A Casa Mágica da Gabby",
-        "descricao": "A Casinha Mágica da Gabby é feita em poliéster, fácil de montar."
+        "nome": "Casinha - A Casa Mágica da Gabby",
+        "descricao": "A Casinha Mágica da Gabby é feita em poliéster e é fácil de montar."
       }
     ]
   },
-    {
+  {
     "nome": "Fandom Box",
     "logo": "https://images.tcdn.com.br/img/img_prod/727032/categoria_img_85_20230511160055.png",
     "cor": "#D4572A",
@@ -34,22 +34,22 @@
       {
         "imagem": "https://images.tcdn.com.br/img/img_prod/727032/fandom_box_harry_potter_1405_1_1cc091554d399d89bbd22490cf784f41.jpg",
         "nome": "Harry Potter",
-        "descricao": "Coleção Fandom Box Harry Potter"
+        "descricao": "Coleção Fandom Box Harry Potter."
       },
       {
         "imagem": "https://images.tcdn.com.br/img/img_prod/727032/fandom_box_hello_kitty_1443_1_7cc0919ba48882e3710b1b50408ef90d.jpg",
         "nome": "Hello Kitty",
-        "descricao": "Coleção Fandom Box Hello Kitty"
+        "descricao": "Coleção Fandom Box Hello Kitty."
       },
       {
         "imagem": "https://images.tcdn.com.br/img/img_prod/727032/fandom_box_sonic_1785_1_7126b757f351e16e40b89a0bdd48a137.jpg",
         "nome": "Sonic",
-        "descricao": "Coleção Fandom Box Sonic"
+        "descricao": "Coleção Fandom Box Sonic."
       },
       {
         "imagem": "https://images.tcdn.com.br/img/img_prod/727032/fandom_box_meu_malvado_favorito_jerry_1997_1_79dec91962275d2bc48cf3a15666225a.jpg",
         "nome": "Meu Malvado Favorito",
-        "descricao": "Coleção Fandom Box Meu Malvado Favorito"
+        "descricao": "Coleção Fandom Box Meu Malvado Favorito."
       }
     ]
   },
@@ -61,7 +61,7 @@
       {
         "imagem": "https://biemme.com.br/wp-content/uploads/2026/04/Crianca-JP-CROSS-BRANCO-12V.png",
         "nome": "Quadriciclo JP",
-        "descricao": "Quadriciclo JP Cross Branco 12V"
+        "descricao": "Quadriciclo JP Cross Branco 12V."
       },
       {
         "imagem": "https://biemme.com.br/wp-content/uploads/2026/04/Crianca-Triciclo-Little-Trike-Comfort-Blue.png",
@@ -71,12 +71,12 @@
       {
         "imagem": "https://biemme.com.br/wp-content/uploads/2026/04/Moto-Supert-Duo-Vermelho-12V-Crianca-e1776960803216.png",
         "nome": "Moto Supert",
-        "descricao": "Moto Supert Duo Vermelha 12V"
+        "descricao": "Moto Supert Duo Vermelha 12V."
       },
       {
         "imagem": "https://biemme.com.br/wp-content/uploads/2022/06/f11-22.png",
         "nome": "Push Car Easy",
-        "descricao": "Push Car Easy Ride Azul"
+        "descricao": "Push Car Easy Ride Azul."
       }
     ]
   },
@@ -88,22 +88,22 @@
       {
         "imagem": "https://www.sopecca.com.br/fotos/produtos/md_sopecca_super-torre-caixa.jpg",
         "nome": "Super Torre",
-        "descricao": "Quantidade de peças: 54 unidades, material: madeira, recomendado para crianças a partir de 6 anos."
+        "descricao": "Quantidade de peças: 54 unidades. Material: madeira. Recomendado para crianças a partir de 6 anos."
       },
       {
         "imagem": "https://www.sopecca.com.br/fotos/produtos/md_sopecca_memoria-animais-filhotes-1.jpg",
-        "nome": "Memória Animais e Filhote",
-        "descricao": "Quantidade de peças: 20 unidades, material: madeira, recomendado para crianças a partir de 3 anos."
+        "nome": "Memória Animais e Filhotes",
+        "descricao": "Quantidade de peças: 20 unidades. Material: madeira. Recomendado para crianças a partir de 3 anos."
       },
       {
         "imagem": "https://www.sopecca.com.br/fotos/produtos/md_sopecca_quebra-cabeca-dinossauro-caixa.jpg",
         "nome": "Quebra-Cabeça Dinossauro",
-        "descricao": "Quantidade de peças: 8 unidades, material: madeira, recomendado para crianças a partir de 2 anos."
+        "descricao": "Quantidade de peças: 8 unidades. Material: madeira. Recomendado para crianças a partir de 2 anos."
       },
       {
         "imagem": "https://www.sopecca.com.br/fotos/produtos/md_sopecca_torre-alfabeto.jpg",
         "nome": "Torre do Alfabeto",
-        "descricao": "Quantidade de peças: 31 unidades, material: madeira, recomendado para crianças a partir de 5 anos."
+        "descricao": "Quantidade de peças: 31 unidades. Material: madeira. Recomendado para crianças a partir de 5 anos."
       }
     ]
   },
@@ -124,14 +124,16 @@
       },
       {
         "imagem": "https://static.wixstatic.com/media/187aeb_77e52488a35541e2a6b3002b0a8b1640~mv2.png/v1/fill/w_996,h_996,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/187aeb_77e52488a35541e2a6b3002b0a8b1640~mv2.png",
-        "nome": "Babador Bandana 2UN",
+        "nome": "Babador Bandana 2 UN",
         "descricao": "Estilo e proteção para o seu bebê! O Babador Bandana da ZIP vem em duas opções encantadoras de bichinhos."
       },
       {
         "imagem": "https://static.wixstatic.com/media/187aeb_222e0a7f42884822a6f6c0b485c3be19~mv2.jpg/v1/fill/w_996,h_996,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/187aeb_222e0a7f42884822a6f6c0b485c3be19~mv2.jpg",
         "nome": "Naninha Fantoche Jesus",
         "descricao": "Com um design encantador, ela combina o conforto da naninha com a diversão de um fantoche."
-      },
+      }
+    ]
+  },
   {
     "nome": "N'Joy",
     "logo": "https://res.cloudinary.com/dag4ql4tf/image/upload/v1788305269/LOGO_N_JOY_COMPACT_ohjwtc.jpg",
@@ -140,22 +142,22 @@
       {
         "imagem": "https://res.cloudinary.com/dag4ql4tf/image/upload/v1788305532/Captura_de_tela_de_2026-09-01_20-31-37_rfvi1e.png",
         "nome": "Urso com Bouquet",
-        "descricao": ""
+        "descricao": "Pelúcias importadas com preços excelentes!"
       },
       {
         "imagem": "https://res.cloudinary.com/dag4ql4tf/image/upload/v1788306233/Captura_de_tela_de_2026-09-01_20-43-41_uielra.png",
-        "nome": "Bonecas de pano",
-        "descricao": ""
+        "nome": "Bonecas de Pano",
+        "descricao": "Bonecas de pano importadas com preços excelentes!"
       },
       {
         "imagem": "https://res.cloudinary.com/dag4ql4tf/image/upload/v1788305802/Captura_de_tela_de_2026-09-01_20-36-27_byuppf.png",
-        "nome": "Golila mais bonito!!!!",
-        "descricao": ""
+        "nome": "Gorila Mais Bonito!",
+        "descricao": "Pelúcias importadas com preços excelentes!"
       },
       {
         "imagem": "https://res.cloudinary.com/dag4ql4tf/image/upload/v1788306500/Captura_de_tela_de_2026-09-01_20-47-52_w3ecgk.png",
-        "nome": "Ursinhos de pelúcia",
-        "descricao": ""
+        "nome": "Ursinhos de Pelúcia",
+        "descricao": "Pelúcias importadas com preços excelentes!"
       }
     ]
   }
