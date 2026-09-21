@@ -224,6 +224,7 @@ DDD e o número, sem espaços, traços ou parênteses. Exemplo:
 | Site não mudou depois de 5 minutos | Talvez o "Commit changes" não tenha sido clicado até o fim | Volte no arquivo e confira se a alteração está salva |
 | Layout do card ficou estranho | Fabricante com mais ou menos de 4 produtos | Garanta sempre exatamente 4 produtos por fabricante |
 
+
 Se algo der errado e você não conseguir identificar o problema, me chame
 que eu ajusto — nenhuma edição feita pelo site quebra o código de verdade,
 o pior caso é o site ficar temporariamente fora do ar até a correção.
