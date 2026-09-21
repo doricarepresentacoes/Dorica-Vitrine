@@ -131,6 +131,31 @@
         "imagem": "https://static.wixstatic.com/media/187aeb_222e0a7f42884822a6f6c0b485c3be19~mv2.jpg/v1/fill/w_996,h_996,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/187aeb_222e0a7f42884822a6f6c0b485c3be19~mv2.jpg",
         "nome": "Naninha Fantoche Jesus",
         "descricao": "Com um design encantador, ela combina o conforto da naninha com a diversão de um fantoche."
+      },
+  {
+    "nome": "N'Joy",
+    "logo": "https://res.cloudinary.com/dag4ql4tf/image/upload/v1788305269/LOGO_N_JOY_COMPACT_ohjwtc.jpg",
+    "cor": "#1F8A70",
+    "produtos": [
+      {
+        "imagem": "https://res.cloudinary.com/dag4ql4tf/image/upload/v1788305532/Captura_de_tela_de_2026-09-01_20-31-37_rfvi1e.png",
+        "nome": "Urso com Bouquet",
+        "descricao": ""
+      },
+      {
+        "imagem": "https://res.cloudinary.com/dag4ql4tf/image/upload/v1788306233/Captura_de_tela_de_2026-09-01_20-43-41_uielra.png",
+        "nome": "Bonecas de pano",
+        "descricao": ""
+      },
+      {
+        "imagem": "https://res.cloudinary.com/dag4ql4tf/image/upload/v1788305802/Captura_de_tela_de_2026-09-01_20-36-27_byuppf.png",
+        "nome": "Golila mais bonito!!!!",
+        "descricao": ""
+      },
+      {
+        "imagem": "https://res.cloudinary.com/dag4ql4tf/image/upload/v1788306500/Captura_de_tela_de_2026-09-01_20-47-52_w3ecgk.png",
+        "nome": "Ursinhos de pelúcia",
+        "descricao": ""
       }
     ]
   }
